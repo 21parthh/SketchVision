@@ -151,7 +151,7 @@ export default function Home() {
                                     cursor: "pointer",
                               }}
                         >
-                              Reset/clear
+                              Reset/clear/delete
                         </Button>
 
                         {/* Color Picker */}
